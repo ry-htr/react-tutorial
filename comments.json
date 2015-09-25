@@ -1,26 +1,4 @@
 [
-    {
-        "author": "Pete Hunt",
-        "text": "Hey there!"
-    },
-    {
-        "author": "Paul O\u2019Shannessy",
-        "text": "React is *great*!"
-    },
-    {
-        "author": "hoge",
-        "text": "huag"
-    },
-    {
-        "author": "hoge",
-        "text": "huga"
-    },
-    {
-        "author": "huga",
-        "text": "piyo"
-    },
-    {
-        "author": "piyo",
-        "text": "hoge"
-    }
+  {"author": "Pete Hunt", "text": "This is one comment"},
+  {"author": "Jordan Walke", "text": "This is *another* comment"}
 ]
